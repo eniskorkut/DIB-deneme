@@ -1,2 +1,1 @@
-# DIB-deneme
-DİB proje deneme
+Bu, Geliştirici A tarafından eklendi.
