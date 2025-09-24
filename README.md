@@ -1,2 +1,1 @@
-# DIB-deneme
-DİB proje deneme
+Bu ise Geliştirici B'nin eklediği bambaşka bir cümledir.
